@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0; }
+
+body {
+  background-image: linear-gradient(to right, #051937, #0c1f3b, #132440, #192a44, #203048); }
+
+.wrapper {
+  height: 94vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; }
+
+.imageForm {
+  background-image: linear-gradient(to right, #ededed, #e9e9f0, #e3e6f3, #dae3f6, #d0e1f9);
+  padding: 3rem 1rem;
+  border-radius: 6px; }
+
+.fieldImg img {
+  width: 500px;
+  height: auto; }
